@@ -1,2 +1,2 @@
 FROM ubuntu
-COPY ./ usr/var/www/html
+COPY ./* usr/var/www/html
