@@ -1,2 +1,2 @@
-FROM ubuntu:latest
-COPY ./* usr/var/www/html
+FROM ubuntu
+COPY ./* /var/www/html
